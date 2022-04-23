@@ -1,22 +1,27 @@
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
-      It's right for me, but not for you. Either way,<br>
-      the concept of "right" means no more than that.<br>
+      Knowing is not enough; we must apply.<br>
+      Willing is not enough; we must do.<br>
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
 
-### Hi there, I'm @sxnkr 👋
+<br>
 
-      I'm a college sophomore from India, doing my engineering degree in CS.
+<details align="center">
+<summary> &#9655;</summary>
 
-      🌱 I’m currently learning java.
-
-      😄 Pronouns: He/His
-
-       ⚡ I’m interested in exploring more in the field of computer science.
-
-### :fire: My Stats :
+<h2></h2><br>
+<p align="center">
+  <samp>
+    [ Hi there, I'm @sxnkr ]
+  </samp>
+</p>
+ 
+<h2></h2><br>
+  fire:My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sxnkr)](https://git.io/streak-stats)
+
+</details>
