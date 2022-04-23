@@ -20,8 +20,10 @@
 </p>
  
 <h2></h2><br>
-  fire:My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sxnkr)](https://git.io/streak-stats)
-
+<p align="center">
+  <samp>
+    []
+  </samp>
+</p>
 </details>
