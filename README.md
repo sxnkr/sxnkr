@@ -9,4 +9,5 @@ I'm a college sophomore from India, doing my engineering degree in CS.
 ⚡ I’m interested in exploring more in the field of computer science.
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=sxnkr
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sxnkr&theme=dark&background=000000)](https://git.io/streak-stats)
