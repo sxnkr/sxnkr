@@ -15,7 +15,7 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    [ Hi there, I'm @sxnkr ]
+    [ Hi there, I'm Govind Sankar. ]
   </samp>
 </p>
  
@@ -23,7 +23,7 @@
 
 <p align="center">
   <samp>
-    []
+    [ I'm a sophomore doing his Bachelor of Technology degree programme in India. ]
   </samp>
 </p>
 </details>
