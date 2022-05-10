@@ -31,7 +31,7 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    <a ref=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sxnkr&theme=dark&background=000000)](https://git.io/streak-stats)>
+    <a href=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sxnkr&theme=dark&background=000000)](https://git.io/streak-stats)>
     </a>
   </samp>
 </p>
