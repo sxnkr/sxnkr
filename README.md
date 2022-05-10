@@ -25,8 +25,16 @@
 
 <p align="center">
   <samp>
-    [ I'm a sophomore doing his Bachelor of Technology degree programme in India. ]
+    [ I'm a sophomore doing his Bachelor of Technology degree programme in Computer Science. ]
   </samp>
 </p>
 <h2></h2><br>
+<p align="center">
+  <samp>
+    <a ref=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sxnkr&theme=dark&background=000000)](https://git.io/streak-stats)>
+    </a>
+  </samp>
+</p>
+<h2></h2><br>
+
 </details>
