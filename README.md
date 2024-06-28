@@ -18,14 +18,14 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    [ Hi there, I'm Govind Sankar. ]
+    []
   </samp>
 </p>
 
 
 <p align="center">
   <samp>
-    [ I'm a Junior doing my Bachelor of Technology degree programme in Computer Science. ]
+    []
   </samp>
 </p>
 <h2></h2><br> 
