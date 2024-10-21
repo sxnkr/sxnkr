@@ -31,4 +31,3 @@
 <h2></h2><br> 
 
 </details>
-![](https://visitor-badge.laobi.icu/badge?page_id=sxnkr.readme)
