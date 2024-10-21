@@ -1,4 +1,4 @@
-<p align="left"><b><samp>「</samp></b></p>
+![](https://visitor-badge.laobi.icu/badge?page_id=chrislgarry.readme)<p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
       Knowing is not enough; we must apply.<br>
@@ -18,7 +18,7 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    ![](https://visitor-badge.laobi.icu/badge?page_id=sxnkr.readme)
+    []
   </samp>
 </p>
 
@@ -31,3 +31,4 @@
 <h2></h2><br> 
 
 </details>
+![](https://visitor-badge.laobi.icu/badge?page_id=sxnkr.readme)
