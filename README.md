@@ -18,7 +18,7 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    []
+    ![](https://visitor-badge.laobi.icu/badge?page_id=sxnkr.readme)
   </samp>
 </p>
 
